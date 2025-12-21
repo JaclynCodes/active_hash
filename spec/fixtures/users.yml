@@ -1,3 +1,0 @@
-- id: 1
-  email: <%= "user#{rand(100)}@email.com" %>
-  password: <%= ENV['USER_PASSWORD'] %>
